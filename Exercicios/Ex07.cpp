@@ -15,15 +15,15 @@ cin.ignore(80, '\n'); //Limpa o buffer do teclado
 
 cout << "Digite o valor da segunda nota" << endl;;
 cin >> B;
-cin.ignore(80, '\n'); //Limpa o buffer do teclado
+cin.ignore(80, '\n'); 
 
 cout << "Digite o valor da terceira nota" << endl;;
 cin >> C;
-cin.ignore(80, '\n'); //Limpa o buffer do teclado
+cin.ignore(80, '\n'); 
 
 cout << "Digite o valor da quarta nota" << endl;;
 cin >> D;
-cin.ignore(80, '\n'); //Limpa o buffer do teclado
+cin.ignore(80, '\n'); 
 
     R = (A + B + C + D) / 4;
 
