@@ -13,15 +13,15 @@ using namespace std;
 int main (void)
 {
   float H, P;
-  char resp {'m' or 'h'};
+  char resp {'m'};
 
   cout <<"Qual a sua altura" << endl;
   cin >> H;
 
-  cout <<"Qual seu sexo" <<endl;
+  cout <<"Qual seu sexo digite "f "para femenino ou "m" para masculino" <<endl;
   cin >> resp;
 
-    if(resp == 'h'){
+    if(resp == 'm'){
         P = (72.7*H) - 58;
 
     cout <<"Seu peso ideal eh " << P <<endl;
