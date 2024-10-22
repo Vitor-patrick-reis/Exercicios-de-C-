@@ -1,4 +1,4 @@
-*/ Faça um pogrma que peça a quantidade de horas trabalhadas
+/* Faça um pogrma que peça a quantidade de horas trabalhadas
    o valor entre as horas de trabalho
    o valor percentual de desconto
    e depois imprima na tela o Salario bruto, salario liquido e os descontos
