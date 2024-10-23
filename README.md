@@ -1,6 +1,7 @@
 # Exercicios-de-C++
 Lista de exercicios basico de C++
-  Exercicos aplicados em sala de aula
+  
+  Exercicos aplicados em sala de aula e do site Wiki.python
 
 Resolução em C/C++ dos exercícios de Lógica de Programação e Algoritmos da lista de exercícios wiki.
 (https://wiki.python.org.br/ListaDeExercicios)
