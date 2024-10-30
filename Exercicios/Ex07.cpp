@@ -11,7 +11,7 @@ float A, B, C, D, R;
 
 cout << "Digite o valor da primeira nota" << endl;;
 cin >> A;
-cin.ignore(80, '\n'); //Limpa o buffer do teclado e   quebra linha 
+cin.ignore(80, '\n'); //Limpa o buffer do teclado e quebra linha 
 
 cout << "Digite o valor da segunda nota" << endl;;
 cin >> B;
